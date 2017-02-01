@@ -24,7 +24,7 @@ it out and not give in to Chrome's monopoly.
 Alright, enough wiht my rambling for now. Stay strong, friends!
 
 [jekyll]: https://jekyllrb.com
-[tumblr]: http://maclunar.tumblr.com/search/photography
+[tumblr-photography]: http://maclunar.tumblr.com/search/photography
 [neo-vim]: https://neovim.io/
 [captain-fantastic]: https://en.wikipedia.org/wiki/Captain_Fantastic_(film)
 [firefox]: https://www.mozilla.org/en-US/firefox/developer/
