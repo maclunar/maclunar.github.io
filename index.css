@@ -1,0 +1,19 @@
+body {
+  background-color: #eee;
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: Inconsolata, Menlo, monospace;
+}
+
+h1, p {
+  padding: 20px;
+}
+
+h1 {
+  font-size: 4rem;
+}
+
+p {
+  font-size: 2rem;
+}
