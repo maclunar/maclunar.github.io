@@ -1,22 +1,25 @@
 ---
 layout: page
-title: Now
+title: now
 permalink: /now/
 ---
 
-I'm in Kraków, Poland. It's winter.
+i'm in kraków, poland. it's spring
 
-I brave the horrific air quality everyday while walking my dog.
+waling the dog daily has become a real pleasure,
+as summer is in the air.
 
-I'm working remotely with an international team since November of 2015.
-Remote work has its challenges, but I enjoy it.
+i'm still working remotely with an international team.
+Remote work has its challenges, but I enjoy it
 
-I'm doing my best to eat better and move more. I even started to cook a bit,
-something I never liked doing.
+i'm experimenting with intermittent fasting.
+i feel good doing it, but it's not always easy to refrain from snacking.
 
-I'm intending to spend some time adding to this site, to have a space that
-would homogenise my online presence.
+i'm finally tweaking this space.
+i've even began redirecting my domain here.
+i've started to bite into jekyll and i hope to learn a lot about it.
 
+i need to fix my bike.
 
 --------
-Last update: 2017-01-31
+last update: 2017-05-15
