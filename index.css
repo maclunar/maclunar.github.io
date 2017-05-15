@@ -3,7 +3,7 @@ body {
   border-top: 5px solid #424242;
   background-color: #eee;
   font-family: Inconsolata, Menlo, monospace;
-  padding: 30px;
+  padding: 10px 50px 10px 20px;
 }
 
 h1, h2, h3, p {
