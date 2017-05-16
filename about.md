@@ -10,8 +10,9 @@ i'm maclunar
 
 i live in kraków, poland
 
-i enjoy [taking photos](http://maclunar.tumblr.com/search/photography),
-[writing code](https://github.com/maclunar),
+i enjoy
+<a href="http://maclunar.tumblr.com/search/photography" target="_blank">taking photos</a>,
+<a href="https://github.com/maclunar" target="_blank">writing code</a>,
 riding my bike and walking my dog
 
 i work as a ruby on rails developer and qa engineer
