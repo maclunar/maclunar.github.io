@@ -38,6 +38,14 @@ $on-laptop:        800px;
 // Import partials from the `minima` theme.
 @import "minima";
 
+h1 {
+  font-size: 5rem;
+}
+
+h2 {
+  font-size: 2rem;
+}
+
 a {
   text-decoration: none;
   color: $text-color;
