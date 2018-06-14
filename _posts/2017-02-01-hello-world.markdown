@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hello, World!"
+title:  "hello, world!"
 date:   2017-02-01 21:10:00 +0100
 categories: update
 ---
