@@ -5,6 +5,7 @@ categories: writing
 ---
 
 ---
+
 A quick disclaimer before we begin:
 I've written this peace (on an iPhone, nota bene!) back in September of
 2017, probably after a few beers.
@@ -14,12 +15,13 @@ By now (June of 2018) I'm still a happy iPhone SE owner and iCloud user,
 I also use a MacBook Pro for work.
 
 Alright, let's get on with it.
+
 ---
 
 By buying into Apple services (music, cloud storage, messages...)
 you are pretty much forcing yourself into getting Apple hardware for
-your computing needs. This has a side effect of freeing your mind
-![neo-woah GIF](https://media.giphy.com/media/wc0SKce7o5jvW/giphy.gif).
+your computing needs. This has a side effect of
+[freeing your mind](https://media.giphy.com/media/wc0SKce7o5jvW/giphy.gif).
 
 Yeah, you could get a Windows laptop that would be suitable for games
 and work and movies and photo editing. Sure, you could get this shiny
@@ -72,8 +74,8 @@ I know that I can invest in cool App Store applications as I will be able
 to use them on my next laptop, as it’s gonna be a MacBook.
 
 Worrying about all this stuff is a big part of my self, that I can
-completely let go, once I go full Apple
-![lnever-go-full-retard GIF](https://media.giphy.com/media/gWaKXZ1X8rHOM/giphy.gif).
+completely let go, once I
+[go full Apple](https://media.giphy.com/media/gWaKXZ1X8rHOM/giphy.gif).
 That gives me more time and energy to focus on stuff that matters.
 
 And, I reckon, that’s what minimalist altitude is all about.
