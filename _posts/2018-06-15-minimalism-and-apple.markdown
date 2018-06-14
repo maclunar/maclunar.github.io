@@ -21,7 +21,7 @@ Alright, let's get on with it.
 By buying into Apple services (music, cloud storage, messages...)
 you are pretty much forcing yourself into getting Apple hardware for
 your computing needs. This has a side effect of
-[freeing your mind](https://media.giphy.com/media/wc0SKce7o5jvW/giphy.gif).
+[freeing your mind](https://media.giphy.com/media/wc0SKce7o5jvW/giphy.gif){:target='_blank'}.
 
 Yeah, you could get a Windows laptop that would be suitable for games
 and work and movies and photo editing. Sure, you could get this shiny
@@ -47,7 +47,7 @@ Your new iPhone will probably last at least 3-4 years until it stops
 being supported by software updates. Speaking of which, you are gonna 
 eceive new software and security updates instantly, and updating is easy
 enough for your
-[whole family to do](https://developer.apple.com/support/app-store/).
+[whole family to do](https://developer.apple.com/support/app-store/){:target='_blank'}.
 Your iOS/macOS devices are gonna hold their value well, should you chose
 to resell them. Due to tight integration of hardware and software you
 are gonna encounter technical issues much less often than in
@@ -69,13 +69,13 @@ into Apple ecosystem - all that stress and anxiety goes away.
 I know that I will upgrade to the next iPhone a few years down the road.
 I know that it’s gonna be good, as every iPhone before it has been
 (assuming you’re
-[holding it right](https://en.wikipedia.org/wiki/IPhone_4#Antenna).
+[holding it right](https://en.wikipedia.org/wiki/IPhone_4#Antenna){:target='_blank'}.
 I know that I can invest in cool App Store applications as I will be able
 to use them on my next laptop, as it’s gonna be a MacBook.
 
 Worrying about all this stuff is a big part of my self, that I can
 completely let go, once I
-[go full Apple](https://media.giphy.com/media/gWaKXZ1X8rHOM/giphy.gif).
+[go full Apple](https://media.giphy.com/media/gWaKXZ1X8rHOM/giphy.gif{:target='_blank'}).
 That gives me more time and energy to focus on stuff that matters.
 
 And, I reckon, that’s what minimalist altitude is all about.
