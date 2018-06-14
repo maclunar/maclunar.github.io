@@ -75,7 +75,7 @@ to use them on my next laptop, as it’s gonna be a MacBook.
 
 Worrying about all this stuff is a big part of my self, that I can
 completely let go, once I
-[go full Apple](https://media.giphy.com/media/gWaKXZ1X8rHOM/giphy.gif{:target='_blank'}).
+[go full Apple](https://media.giphy.com/media/gWaKXZ1X8rHOM/giphy.gif){:target='_blank'}.
 That gives me more time and energy to focus on stuff that matters.
 
 And, I reckon, that’s what minimalist altitude is all about.

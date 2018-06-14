@@ -15,7 +15,7 @@ i haven't eaten any meat for almost a year now.
 i feel healthy and i'm positive i can keep this up for the
 rest of my life. if you've ever considered going this road
 -- i can wholeheartedly recommend watching some of 
-[earthling ed's videos][ed].
+[earthling ed's videos](https://hooktube.com/channel/UCVRrGAcUc7cblUzOhI1KfFg){:target='_blank'}.
 
 feeling a bit bored with vim (gasp!), i'm experimenting with
 vs code at the moment. it's nice to use something else for
@@ -29,5 +29,3 @@ i need to fix my bike.
 
 --------
 last update: 2018-06-15
-
-[ed]: https://hooktube.com/channel/UCVRrGAcUc7cblUzOhI1KfFg?target=_blank
