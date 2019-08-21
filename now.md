@@ -4,28 +4,32 @@ title: now
 permalink: /now/
 ---
 
-i'm in kraków, poland. it's almost summer time.
+i'm in kraków, poland. the summer is raging, weather is awesome.
 
-almost a month ago i've started a new job in a local company,
-working as a ruby on rails developer on an in-house project.
-it's a big change after working remotely for a software house,
-but so far i'm really enjoying it.
+i've been working at infakt for well over a year now.
+i've learned a lot and met fantastic people, but i am yearning to
+go back to working remotely. i'd love to travel more.
 
-i haven't eaten any meat for almost a year now.
-i feel healthy and i'm positive i can keep this up for the
-rest of my life. if you've ever considered going this road
--- i can wholeheartedly recommend watching some of 
+stil not eating meet and it's going great.
+if you've ever considered going this road
+-- i can wholeheartedly recommend watching some of
 [earthling ed's videos](https://hooktube.com/channel/UCVRrGAcUc7cblUzOhI1KfFg){:target='_blank'}.
 
-feeling a bit bored with vim (gasp!), i'm experimenting with
-vs code at the moment. it's nice to use something else for
-a little while. the mouse integration in this thing is really
-impressive! also, it looks great with solarized-light theme.
+i'm trying to stay active. i'm riding my bike a lot, commuting to
+work almost daily. for the past year i've also owned my first
+motorbike -- an old yamaha xj600n -- so i'm taking that when i'm
+feeling more lazy.
 
-the dog is doing great. he's healthy and over 3 at this point.
+i've switched my text editor of choice to
+[spacemacs](http://spacemacs.org){:target='_blank'}. i love it so far - it's very
+intuitive and discoverable. check out
+[my configuration](https://gist.github.com/maclunar/7f5a7dd63e38081342b596b618c8d629){:target='_blank'}
+if you're interested.
+
+the dog is doing great. he's healthy and over 4 at this point.
 he also doesn't eat meat.
 
-i need to fix my bike.
+i should be running more...
 
 --------
-last update: 2018-06-15
+last update: 2019-08-21
