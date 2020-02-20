@@ -4,32 +4,34 @@ title: now
 permalink: /now/
 ---
 
-i'm in kraków, poland. the summer is raging, weather is awesome.
+february 2020, koh samui, thailand
 
-i've been working at infakt for well over a year now.
-i've learned a lot and met fantastic people, but i am yearning to
-go back to working remotely. i'd love to travel more.
+we did it!
+me and my wife escaped polish winter and we're enjoying the sun and the warmth of thai
+weather in january and february (and a tiny bit of march).
 
-stil not eating meet and it's going great.
-if you've ever considered going this road
--- i can wholeheartedly recommend watching some of
-[earthling ed's videos](https://hooktube.com/channel/UCVRrGAcUc7cblUzOhI1KfFg){:target='_blank'}.
+we were staying in chiang mai for a month, then we took a week off to travel around, and now
+we're in koh samui.
 
-i'm trying to stay active. i'm riding my bike a lot, commuting to
-work almost daily. for the past year i've also owned my first
-motorbike -- an old yamaha xj600n -- so i'm taking that when i'm
-feeling more lazy.
+this big change was made possible by us finding work at remote-first companies.
+time difference to our teams back in europe is around +6 hours, which is proving to be
+completely manageable.
 
-i've switched my text editor of choice to
-[spacemacs](http://spacemacs.org){:target='_blank'}. i love it so far - it's very
-intuitive and discoverable. check out
-[my configuration](https://gist.github.com/maclunar/7f5a7dd63e38081342b596b618c8d629){:target='_blank'}
-if you're interested.
+of course we miss our families and our dog, but we love thailand - it's our second time here.
 
-the dog is doing great. he's healthy and over 4 at this point.
-he also doesn't eat meat.
+taking this long trip was a good excuse for me to get a new - proper - camera. i used to
+shoot exclusively with ricoh gr (1st gen) for the past year or so, but i missed this
+hands on, involved feel one gets from a bigger camera and lens. anyway, to make a long
+story short, i got a fujifilm x-t3 with two lenses and i'm loving it so far (despite the
+bulk and the weight).
 
-i should be running more...
+on technical side, i'm still using [spacemacs](http://spacemacs.org){:target='_blank'}
+and enjoying it a lot.
+
+that's pretty much it for now.
+
+p.s. you can find history of this page on
+[github](https://github.com/maclunar/maclunar.github.io/commits/master/now.md).
 
 --------
-last update: 2019-08-21
+last update: 2020-02-20
