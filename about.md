@@ -8,7 +8,7 @@ hello
 
 i'm maclunar
 
-i live in kraków, poland
+i live in tarnowskie góry, poland
 
 i enjoy
 [taking photos](http://maclunar.tumblr.com/search/photography){:target='_blank'},
@@ -20,9 +20,7 @@ i work as a ruby on rails developer
 this site's code is available on
 [github](https://github.com/maclunar/maclunar.github.io){:target='_blank'}.
 it's all been hacked together in
-[vim](http://www.vim.org){:target='_blank'}
-or
-[vs code](https://code.visualstudio.com/){:target='_blank'}
+[spacemacs](https://www.spacemacs.org){:target='_blank'}
 using
 [jekyll](https://jekyllrb.com){:target='_blank'}.
 it's still very much a work in progess
