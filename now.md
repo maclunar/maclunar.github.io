@@ -17,7 +17,7 @@ it's fun to be back in a "software house" environment, being able to work on var
 i'm experimenting a lot with llms for code generation (mostly in cursor). it's wild how much
 faster it is to implement features this way. this updates is being typed in neovim though ;)
 
-on the camera gear front - i've traded my fuji gear for a nikon z6_2 with a 24-70 f/2.8 zoom.
+on the camera gear front - i've traded my fuji gear for a nikon z6 mk2 with a 24-70 f/2.8 zoom.
 i love the full frame sensor and the zoom gives a lot of flexibility, but it's a pig to lug around.
 i've just purchased a 35/1.4 lens, which i'm excited to test on an upcoming hiking trip to diablak.
 

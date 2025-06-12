@@ -5,6 +5,7 @@ categories: writing
 ---
 
 Yesterday was my 35th birthday.
+
 Here is a list of things I did and enjoyed, in no particular order:
 
 * drove my car to a nearby town and back
