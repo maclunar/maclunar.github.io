@@ -4,32 +4,25 @@ title: now
 permalink: /now/
 ---
 
-february 2020, koh samui, thailand
+june 2025, tarnowskie góry, poland
 
-we did it!
+after enjoying winter in the south of europe (portugal and spain), we're now happily in
+poland, where summer is just beginning.
 
-me and my wife escaped polish winter and we're enjoying the sun and the warmth of thai
-weather in january and february (and a tiny bit of march).
+last year we moved to a new house in our hometown, and it's great to finally have a garage
+for the car and a small yard for the dog.
 
-we were staying in chiang mai for a month, then we took a week off to travel around, and now
-we're in koh samui.
+i'm currently working at lumenalta, an american consulting company, as a senior ruby developer.
+it's fun to be back in a "software house" environment, being able to work on various projects.
+i'm experimenting a lot with llms for code generation (mostly in cursor). it's wild how much
+faster it is to implement features this way. this updates is being typed in neovim though ;)
 
-this big change was made possible by us finding work at remote-first companies.
-time difference to our teams back in europe is around +6 hours, which is proving to be
-completely manageable.
-
-of course we miss our families and our dog, but we love thailand - it's our second time here.
-
-taking this long trip was a good excuse for me to get a new - "proper" - camera. i used to
-shoot exclusively with ricoh gr (1st gen) for the past year or so, but i missed this
-hands on, involved feel one gets from a bigger camera. anyway, to make a long
-story short, i got a fujifilm x-t3 with two lenses (16 and 56 mm) and i'm loving it so far
-(despite the bulk and the weight).
-
-that's pretty much it for now.
+on the camera gear front - i've traded my fuji gear for a nikon z6_2 with a 24-70 f/2.8 zoom.
+i love the full frame sensor and the zoom gives a lot of flexibility, but it's a pig to lug around.
+i've just purchased a 35/1.4 lens, which i'm excited to test on an upcoming hiking trip to diablak.
 
 p.s. you can find history of this page on
 [github](https://github.com/maclunar/maclunar.github.io/commits/master/now.md).
 
 --------
-last update: 2020-02-21
+last update: 2025-06-12
