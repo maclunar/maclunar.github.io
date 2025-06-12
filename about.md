@@ -11,7 +11,7 @@ i'm maclunar
 i live in tarnowskie góry, poland
 
 i enjoy
-[taking photos](http://maclunar.tumblr.com/search/photography){:target='_blank'},
+[taking photos](https://www.flickr.com/photos/maclunar/){:target='_blank'},
 [writing code](https://github.com/maclunar){:target='_blank'},
 riding my bike and walking my dog
 
@@ -20,7 +20,7 @@ i work as a ruby on rails developer
 this site's code is available on
 [github](https://github.com/maclunar/maclunar.github.io){:target='_blank'}.
 it's all been hacked together in
-[spacemacs](https://www.spacemacs.org){:target='_blank'}
+[neovim](https://neovim.io/){:target='_blank'}
 using
 [jekyll](https://jekyllrb.com){:target='_blank'}.
 it's still very much a work in progess
