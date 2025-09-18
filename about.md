@@ -15,7 +15,7 @@ i enjoy
 [writing code](https://github.com/maclunar){:target='_blank'},
 riding my bike and walking my dog
 
-i work as a ruby on rails developer
+i work as a ruby on rails developer ([cv]({{ site.url }}/assets/Maciej_Wilk_2025CV.pdf))
 
 this site's code is available on
 [github](https://github.com/maclunar/maclunar.github.io){:target='_blank'}.
