@@ -11,7 +11,7 @@ i'm maclunar
 i live in tarnowskie góry, poland
 
 i enjoy
-[taking photos](https://www.flickr.com/photos/maclunar/){:target='_blank'},
+[taking photos](/photo),
 [writing code](https://github.com/maclunar){:target='_blank'},
 riding my bike and walking my dog
 
