@@ -17,13 +17,14 @@ i've switched work projects twice since my last update in june last year. curren
 and i'm enjoying it so far. utilising llms in my daily work, of course. i'm finding cursor's
 composer 2.5 to be quite capable.
 
-i've vibe-coded an app called [paklist-neo] – a simple packing list app that i already find pretty useful.
+i've vibe-coded an app called [paklist-neo]{:target='_blank'} – a simple packing list app that
+i already find pretty useful.
 
 i'm back to riding my fixie pretty regularly — the very same bike that's in my photo on the [about page](/about).
 
 i'd like to post a bit more, but we'll see how it goes.
 
-i'm listening to [F# A# ∞] as i type this. such a lovely album.
+i'm listening to [F# A# ∞]{:target='_blank'} as i type this. such a lovely album.
 
 --------
 last update: 2026-05-28 | [page history](https://github.com/maclunar/maclunar.github.io/commits/master/now.md)

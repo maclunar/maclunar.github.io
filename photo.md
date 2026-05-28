@@ -12,12 +12,13 @@ i half-jokingly reply with:
 1. i don't think i'm very photogenic myself, so i figured being behind
 the camera is safer than in front of it
 2. it's a means of creative expression that doesn't require me to learn
-how to paint or [play the guitar][michal]
+how to paint or [play the guitar][michal]{:target='_blank'}
+
 
 you can find my photos in a bunch of places (from newest to oldest):
-* [flickr](https://www.flickr.com/maclunar)
-* [tumblr](https://maclunar.tumblr.com/search/photography)
-* [deviantart](https://www.deviantart.com/maclunar)
+* [flickr](https://www.flickr.com/maclunar){:target='_blank'}
+* [tumblr](https://maclunar.tumblr.com/search/photography){:target='_blank'}
+* [deviantart](https://www.deviantart.com/maclunar){:target='_blank'}
 
 i'll probably set up a proper photography portfolio on this very site soon,
 stay tuned!
