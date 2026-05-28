@@ -23,7 +23,6 @@ it's all been hacked together in
 [neovim](https://neovim.io/){:target='_blank'}
 using
 [jekyll](https://jekyllrb.com){:target='_blank'}.
-it's still very much a work in progess
 
 if you'd like to get in touch with me, [send me an email](mailto:maclunar@gmail.com)
 
