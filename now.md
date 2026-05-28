@@ -4,25 +4,29 @@ title: now
 permalink: /now/
 ---
 
-june 2025, tarnowskie góry, poland
+may 2026, tarnowskie góry, poland
 
-after enjoying winter in the south of europe (portugal and spain), we're now happily in
-poland, where summer is just beginning.
+living life, trying to keep it simple.
 
-last year we moved to a new house in our hometown, and it's great to finally have a garage
-for the car and a small yard for the dog.
+after years (_years!_) i've finally returned to leica rangefinders – m10 to be specific.
+my nikon gear is up for sale, but so far no one has met my price, so i'm enjoying both systems.
+i've added a [blog entry listing my camera history](/_posts/2026-05-27-camera-log.markdown),
+if anyone's interested. it's still very much a work in progress.
 
-i'm currently working at lumenalta, an american consulting company, as a senior ruby developer.
-it's fun to be back in a "software house" environment, being able to work on various projects.
-i'm experimenting a lot with llms for code generation (mostly in cursor). it's wild how much
-faster it is to implement features this way. this updates is being typed in neovim though ;)
+i've switched work projects twice since my last update in june last year. currently i'm at physitrack
+and i'm enjoying it so far. utilising llms in my daily work, of course. i'm finding cursor's
+composer 2.5 to be quite capable.
 
-on the camera gear front - i've traded my fuji gear for a nikon z6 mk2 with a 24-70 f/2.8 zoom.
-i love the full frame sensor and the zoom gives a lot of flexibility, but it's a pig to lug around.
-i've just purchased a 35/1.4 lens, which i'm excited to test on an upcoming hiking trip to diablak.
+i've vibe-coded an app called [paklist-neo] – a simple packing list app that i already find pretty useful.
 
-p.s. you can find history of this page on
-[github](https://github.com/maclunar/maclunar.github.io/commits/master/now.md).
+i'm back to riding my fixie pretty regularly — the very same bike that's in my photo on the [about page](/about).
+
+i'd like to post a bit more, but we'll see how it goes.
+
+i'm listening to [F# A# ∞] as i type this. such a lovely album.
 
 --------
-last update: 2025-06-12
+last update: 2026-05-28 | [page history](https://github.com/maclunar/maclunar.github.io/commits/master/now.md)
+
+[paklist-neo]: https://paklist-neo.fly.dev/
+[F# A# ∞]: https://godspeedyoublackemperor.bandcamp.com/album/f-a
